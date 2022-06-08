@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @KinGun240
 - 👀 I’m interested in ... Twitch
 - 🌱 I’m currently learning ...　PYTHON 3
-- 📫 How to reach me ...
+- 📫 How to reach me ... kingunsq@gmail.com
 
 # Status
 ![Status](https://github-readme-stats.vercel.app/api?username=KinGun240&count_private=true&show_icons=true&theme=dracula)
