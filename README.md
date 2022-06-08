@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KinGun240&theme=dracula
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KinGun240&theme=dracula)
 
 <!---
 KinGun240/KinGun240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
