@@ -1,5 +1,5 @@
 # Introduction
-- 👋 Hi, I’m @KinGun240
+- 👋 Hi, I’m KinGun
 - 👀 I’m interested in ... Twitch
 - 🌱 I’m currently learning ... PYTHON 3
 - 📫 How to reach me ... kingunsq@gmail.com
