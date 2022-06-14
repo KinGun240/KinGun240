@@ -1,7 +1,7 @@
 # Introduction
-- 👋 Hi, I’m KinGun
+- 👋 Hi, I’m KinGun(近ガン)
 - 👀 I’m interested in ... Twitch
-- 🌱 I’m currently learning ... PYTHON 3
+- 🌱 I’m currently learning ... Python 3
 - 📫 How to reach me ... kingunsq@gmail.com
 
 # Status
